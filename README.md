@@ -1,6 +1,12 @@
 # atviii-wb-typescript
 Lista 3 
 
+|Alunos|Nome|
+|:---:|:---:|
+|1|Lucas Braz Dias
+|2|Tais Gomes Salomão
+|3|Priscila Aparecida Silva
+
 # Como rodar a aplicação
 Clone o repositorio git com git clone [https://github.com/grupo-LTP/atviii-wb-typescript.git]
 Entre na pasta utilizando cd atviii-wb-typescript
